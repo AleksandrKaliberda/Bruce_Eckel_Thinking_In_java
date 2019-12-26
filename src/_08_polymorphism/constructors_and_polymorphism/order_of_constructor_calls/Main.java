@@ -20,6 +20,7 @@ class Main {
         Bread()
         Cheese()
         Lettuce()
+        Pickle()
         Sandwich()
 
         The order of the constructor calls is important. When you inherit, you know all about the
