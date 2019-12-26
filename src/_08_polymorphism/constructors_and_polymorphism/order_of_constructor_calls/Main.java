@@ -21,6 +21,14 @@ class Main {
         Cheese()
         Lettuce()
         Sandwich()
+
+        The order of the constructor calls is important. When you inherit, you know all about the
+        base class and can access any public and protected members of the base class. This means
+        that you must be able to assume that all the members of the base class are valid when you’re
+        in the derived class. In a normal method, construction has already taken place, so all the
+        members of all parts of the object have been built. Inside the constructor, however, you must
+        be able to assume that all members that you use have been built. The only way to guarantee
+        this is for the base-class constructor to be called first.
          */
     }
 }
@@ -61,6 +69,14 @@ class Sandwich extends PortableLunch {
     private Bread b = new Bread();
     private Cheese c = new Cheese();
     private Lettuce l = new Lettuce();
+    private Pickle p = new Pickle();
     Sandwich() {System.out.println("Sandwitch()");
+    }
+}
+
+//Exercise 11: (1) Add class Pickle to Sandwich.java.
+class Pickle{
+    Pickle(){
+        System.out.println("Pickle()");
     }
 }
