@@ -60,4 +60,6 @@ remote:
 To https://github.com/AleksandrKaliberda/Bruce_Eckel_Thinking_In_java.git
  * [new branch]      dev -> dev
 Branch 'dev' set up to track remote branch 'dev' from 'origin'.
-	
+*	*	*	*	*	*	*	*	*	*
+After branch dev has been created in github, i used command (git push (while being at branch dev))
+*	*	*	*	*	*	*	*	*	*
