@@ -63,3 +63,8 @@ Branch 'dev' set up to track remote branch 'dev' from 'origin'.
 *	*	*	*	*	*	*	*	*	*
 After branch dev has been created in github, i used command (git push (while being at branch dev))
 *	*	*	*	*	*	*	*	*	*
+//To create branch named dummy, and check it out immediately
+$ git checkout -b dummy
+*	*	*	*	*	*	*	*	*	*
+//To delete branch named dummy (At that time i should not stay on branch dummy)
+$ git branch -d dummy
