@@ -68,3 +68,7 @@ $ git checkout -b dummy
 *	*	*	*	*	*	*	*	*	*
 //To delete branch named dummy (At that time i should not stay on branch dummy)
 $ git branch -d dummy
+*	*	*	*	*	*	*	*	*	*
+//To end watching git log need to press 'q'
+'q'
+*	*	*	*	*	*	*	*	*	*
