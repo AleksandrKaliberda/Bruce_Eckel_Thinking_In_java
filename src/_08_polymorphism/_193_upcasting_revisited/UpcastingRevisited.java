@@ -5,6 +5,9 @@ class UpcastingRevisited {
 
         Wind flute = new Wind();
         Music.tune(flute); // Upcasting
+
+        //OUTPUT:
+        // Wind.play() MIDDLE_C
     }
 }
 
