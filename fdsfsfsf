@@ -1,0 +1,97 @@
+[33mcommit e9523afc944162a5d4f9574f6149ea7fe3a34a4b[m[33m ([m[1;36mHEAD -> [m[1;32mgithub_commands[m[33m, [m[1;31morigin/github_commands[m[33m)[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 16:17:30 2019 +0200
+
+    Add commands to create checked out barnch, and command to delete branch
+
+[33mcommit 0f2d9a38c50ecb30dc09edfc2b8569e18c7aa8b6[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Merge: cf73773 930f234
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 16:03:52 2019 +0200
+
+    Merge pull request #2 from AleksandrKaliberda/revert-1-BE_08_constructors_and_polymorphism
+    
+    Revert "Added Pickle output"
+
+[33mcommit 930f2344683ee1694f53beb0cf58474c69be725f[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 16:02:36 2019 +0200
+
+    Revert "Added Pickle output"
+
+[33mcommit cf7377389a99a5b7284f7fd1edca314541b222fa[m
+Merge: 2f639cb 65561a2
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 16:02:14 2019 +0200
+
+    Merge pull request #1 from AleksandrKaliberda/BE_08_constructors_and_polymorphism
+    
+    Added Pickle output
+
+[33mcommit 65561a2dcbb7a13742b1c5fae62d65e6cb01fdba[m[33m ([m[1;31morigin/BE_08_constructors_and_polymorphism[m[33m, [m[1;32mBE_08_constructors_and_polymorphism[m[33m)[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 15:58:05 2019 +0200
+
+    Added Pickle output
+
+[33mcommit 2f639cb3e8557464641ec235ef187996016b0865[m
+Merge: 1b77766 4f8acd2
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 15:54:12 2019 +0200
+
+    Merge branch 'BE_08_constructors_and_polymorphism' into dev
+
+[33mcommit 4f8acd24126b8d923472221248e8aeba08510556[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 15:53:46 2019 +0200
+
+    Added home work (to add Pickles class)
+
+[33mcommit 1b77766f5cbf213fa3e3f2b675e2ce87c9f7bec4[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 15:18:56 2019 +0200
+
+    add commands to push branch after it created on github
+
+[33mcommit 9d77437d78899d54058cff58987aff71a0dd2a82[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 15:15:51 2019 +0200
+
+    add commands to merge and push branch
+
+[33mcommit 23cf6359d1c3dacdf9556943f05f676e93590921[m
+Merge: c392fc4 e0c80f4
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 14:57:11 2019 +0200
+
+    Merge branch 'BE_08_constructors_and_polymorphism' into dev
+
+[33mcommit e0c80f4175a465b3ddcaddcb1399eee7ca5870db[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 14:55:17 2019 +0200
+
+    08 order of constructor calls
+
+[33mcommit c392fc4f23601a8f523bc33da4bc211f9638bc55[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 14:46:12 2019 +0200
+
+     added Github command rules
+
+[33mcommit 802d32c09fe821a6cc4533c3f372a07cca9639fb[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 14:38:50 2019 +0200
+
+     added dot
+
+[33mcommit 4ec0b43dc43dd0b55c7653ef380243e318b2de6c[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Thu Dec 26 14:33:31 2019 +0200
+
+    revision in dev
+
+[33mcommit 85720a8fe03cd4c98719001e19a76b50aaf3128a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtest[m[33m, [m[1;32mmaster[m[33m)[m
+Author: AleksandrKaliberda <alexandr.kaliberda@gmail.com>
+Date:   Fri Jun 14 17:37:34 2019 +0300
+
+    Initial commit
