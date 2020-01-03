@@ -18,6 +18,8 @@ Switched to branch 'BE_08_constructors_and_polymorphism'
 *	*	*	*	*	*	*	*	*	*	
 //To add revised files
 $ git add README.md
+$ git add src/_08_polymorphism/constructors_and_polymorphism/order_of_constructor_calls/Main.java
+$ git add src/_08_polymorphism/_193_upcasting_revisited/UpcastingRevisited.java
 *	*	*	*	*	*	*	*	*	*	
 //To commit files
 $ git commit -m 'revision in dev'
