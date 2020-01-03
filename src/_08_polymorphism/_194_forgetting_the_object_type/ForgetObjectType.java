@@ -10,6 +10,11 @@ class ForgetObjectType {
     Music2.tune(flute); // No upcasting
     Music2.tune(violin);
     Music2.tune(frenchHorn);
+
+    //OUTPUT:
+    //Wind.play() MIDDLE_C
+    //Stringed.play() MIDDLE_C
+    //Brass.play() MIDDLE_C
     }
 }
 
