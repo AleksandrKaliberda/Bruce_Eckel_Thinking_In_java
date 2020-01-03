@@ -20,6 +20,15 @@ Switched to branch 'BE_08_constructors_and_polymorphism'
 $ git add README.md
 $ git add src/_08_polymorphism/constructors_and_polymorphism/order_of_constructor_calls/Main.java
 $ git add src/_08_polymorphism/_193_upcasting_revisited/UpcastingRevisited.java
+
+//To add all the changes you've made:
+git add .
+
+//To commit them:
+git commit -m "MY MESSAGE HERE" #-m is the message flag
+
+//You can put those steps together like this:
+git commit -a -m "MY MESSAGE HERE"
 *	*	*	*	*	*	*	*	*	*	
 //To commit files
 $ git commit -m 'revision in dev'
