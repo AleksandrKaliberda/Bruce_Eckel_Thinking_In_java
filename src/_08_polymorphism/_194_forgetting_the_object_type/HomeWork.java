@@ -18,7 +18,6 @@ the results. Downcast and call balance( ) and observe what happens
  */
 class HomeWork {
     public static void main(String[] args) {
-        Circus circus = new Circus();
 
         //Upcasting
         List<Cycle> cycleList= Arrays.asList(new Unicycle(), new Bicycle(), new Tricycle());
@@ -90,12 +89,6 @@ class Tricycle extends Cycle{
         return 3;
     }
 
-}
-
-class Circus{
-//    void rideOnRope(Cycle cycle){
-//        cycle.ride();
-//    }
 }
 
 class RideWheels {
