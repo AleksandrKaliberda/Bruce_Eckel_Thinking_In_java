@@ -3,7 +3,7 @@ package _06_access_control._168_package_library_unit;
 import _06_access_control._168_package_library_unit.test_util.*;
 import java.util.*;
 
-public class C {
+class C {
 
     public static void main(String[] args) {
 
