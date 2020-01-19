@@ -7,6 +7,7 @@ public class European extends Human {
 
     protected String europeanEating(){
 
+        //Even European is in another package
         //Human's method humanEating() is available in European, because it's protected level abd extends Human
         return humanEating() + "By spoon. ";
     }
