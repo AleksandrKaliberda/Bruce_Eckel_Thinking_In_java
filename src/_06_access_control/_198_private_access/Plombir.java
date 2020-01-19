@@ -15,7 +15,7 @@ class Plombir {
 class IceCream{
     public static void main(String[] args) {
 
-        //Plombir p = new Plombir(); //Cannot create and object Plombir.
+        //Plombir p = new Plombir(); //Cannot create and object Plombir
 
         Plombir p1 = Plombir.makePlombir();
         System.out.println("p1: "+ p1);
